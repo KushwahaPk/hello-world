@@ -1,4 +1,2 @@
 Hello Artifactory and Sonar
-Web hook example
-Enjoy
-HIIIII
+Web hook.I
